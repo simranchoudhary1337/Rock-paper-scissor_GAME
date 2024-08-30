@@ -1,1 +1,1 @@
-# This is an another repo. of a small game i.e. Rock-Paper-Scissor.
+# This is an another repo. of a small game Rock-Paper-Scissor.
